@@ -1,7 +1,7 @@
 {
   "name": "music-backend-express",
   "version": "1.0.0",
-  "description": "",
+  "description": "Music backend app using node, npm, and express.js",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
